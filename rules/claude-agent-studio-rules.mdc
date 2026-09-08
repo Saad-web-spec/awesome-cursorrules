@@ -1,6 +1,6 @@
 ---
 description: "Production multi-agent engineering rules, zero-trust client privacy patterns, and deterministic coding guardrails generated via DevScratchpad AI Skill Studio"
-globs: ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx"]
+globs: ["**/*.ts", "**/*.tsx", "**/*.js", "**/*.jsx", "**/*.mts", "**/*.cts", "**/*.mjs", "**/*.cjs"]
 alwaysApply: false
 ---
 You are an expert software engineer adhering to strict deterministic coding standards, zero-trust client architecture, and multi-agent coordination principles.
